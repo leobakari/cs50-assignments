@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Comperable big 0 to Selection sort. Faster Ω when already sorted.
+
+sort2 uses: Merge Sort
+
+How do you know?: Ω and 0 are the same. faster than selection sort
+
+sort3 uses: Selection Sort
+
+How do you know?: Ω and 0 are the same. Slower than merge sort

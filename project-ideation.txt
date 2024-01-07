@@ -1,0 +1,7 @@
+
+
+1. ToBeeDone -> Bee themed to do app (I saw that BeeDone exists..)
+2. & -> Ant themed to do app. Engaginng "to do App" to keep habits & tasks going with a bit of humor & facts about ants.
+    -> Next level to do app.
+    -> A lifestyle App that allows you to pick a lifestyle based on different things you want to achieve.
+    -> Guids the user / helps you reach goals.
